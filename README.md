@@ -1,6 +1,6 @@
 # K-MEANS_CUSTOMER_SEGMENTATION
  
- * ![ai_for_customer_clustering](https://user-images.githubusercontent.com/73841520/126891847-3dbe3357-d1ed-4c2e-8c60-cfee10d6ac33.jpg)
+   ![ai_for_customer_clustering](https://user-images.githubusercontent.com/73841520/126891847-3dbe3357-d1ed-4c2e-8c60-cfee10d6ac33.jpg)
 
 # İŞ PROBLEMİ
  
@@ -14,7 +14,6 @@
 
 # DEĞİŞKENLER
 
-* Değişkenler
 * InvoiceNo: Fatura Numarası , Eğer bu kod C ile başlıyorsa işlemin iptal edildiğini ifade eder.
 * StockCode: Ürün kodu, Her bir ürün için eşsiz numara.
 * Description: Ürün İsmi
