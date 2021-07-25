@@ -6,6 +6,7 @@
  
 * Kural tabanlı müşteri segmentasyonu yöntemi RFM ile makine öğrenmesi yöntemi olan K-Means'inmüşteri segmentasyonu için karşılaş=rılması beklenmektedir.
 
+
 # VERİ SETİ HİKAYESİ
 
 * Online Retail II isimli veri seti İngiltere merkezli online bir satış  mağazasının 01/12/2009 -09/12/2011 tarihleri arasındaki satışlarını içermektedir. 
